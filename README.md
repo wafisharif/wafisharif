@@ -1,9 +1,10 @@
 <p align="center">
-  <img src="assets/banner.png" width="100%" alt="Wafi Sharif GitHub Banner">
+  <img src="assets/banner.jpg" width="100%" alt="Banner">
 </p>
 
 <h1 align="center">👋 Hi, my name is Wafi Sharif</h1>
 
+<p align="center">
   <a href="mailto:wafisharif0@gmail.com">
     <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
