@@ -4,15 +4,16 @@
 
 <h1 align="center">👋 Hi, my name is Wafi Sharif</h1>
 
-<p align="center">
-  <a href="https://wafisharif.github.io/portfolio/">
-    <img src="https://img.shields.io/badge/PORTFOLIO-111111?style=for-the-badge&logo=githubpages&logoColor=white" />
-  </a>
-  <a href="mailto:YOUR_EMAIL_HERE">
+  <a href="mailto:wafisharif0@gmail.com">
     <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+
   <a href="https://github.com/wafisharif">
     <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/wafisharif/">
+    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
