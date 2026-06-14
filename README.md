@@ -28,7 +28,7 @@ I am a high school student from NYC.
 
 - ♟️ My hobbies include poker, chess, flying drones, CAD modeling, and learning about and tinkering with emerging technologies.
 
-- 💻 I am a research assistant @ NYU's Machines in Motion Lab and @ Columbia University's ROAR Lab; Mechanic on QHSS Cardinals, FTC #19426; Science Olympiad build competitor & lead.
+- 💻 I am a research assistant @ NYU's Machines in Motion Lab and @ Columbia University's ROAR Lab; mechanic on QHSS Cardinals, FTC #19426; Science Olympiad build competitor & lead.
 
 - 🔬 My interests lie in mechanical engineering, robotics, biomechanics, and computational modeling.
 
