@@ -20,7 +20,7 @@
 
 ---
 
-## About Me:
+## About Me
 
 I am a high school student from NYC.
 
@@ -36,7 +36,7 @@ I am a high school student from NYC.
 
 ---
 
-## Completed Projects:
+## Completed Projects
 
 ### Physics Simulators
 
@@ -77,7 +77,7 @@ I am a high school student from NYC.
 
 ---
 
-## Tech / Tools:
+## Tech / Tools
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
