@@ -26,7 +26,7 @@ I am a high school student from NYC.
 
 - ⚙️ I build projects ranging from robotics systems and engineering tools to interactive physics simulations.
 
-- ♟️ My hobbies include poker, chess, flying drones, CAD modeling, and learning about and tinkering with emerging technologies.
+- ♟️ My hobbies include poker, chess, flying drones, CAD modeling, and tinkering with hardware.
 
 - 💻 I am a research assistant @ NYU's Machines in Motion Lab and @ Columbia University's ROAR Lab; mechanic on QHSS Cardinals, FTC #19426; Science Olympiad build competitor & lead.
 
@@ -63,17 +63,17 @@ I am a high school student from NYC.
 
 ---
 
-### Robotics Tools
+<!-- ### Robotics Tools
 
 - 🧭 [Cardinals Autonomous Path Planner](https://github.com/wafisharif/Cardinals-Autonomous-Path-Planner)  
   An FTC autonomous path planning tool built to help calculate, compare, and organize robot movement paths for autonomous routines.
 
 ---
-
+-->
 ### Portfolio
 
 - 🌐 [Personal Portfolio Website](https://wafisharif.github.io/portfolio/)  
-  My main portfolio site delving deeper into my research, robotics, engineering projects, simulators, and other technical work.
+  My main portfolio site delving deeper into my research, robotics, projects, simulators, and other technical work.
 
 ---
 
