@@ -28,9 +28,9 @@ I am a high school student from NYC.
 
 - ♟️ My hobbies include poker, chess, flying drones, CAD modeling, and tinkering with hardware.
 
-- 💻 I am a research assistant @ NYU's Machines in Motion Lab and @ Columbia University's ROAR Lab; mechanic on QHSS Cardinals, FTC #19426; Science Olympiad build competitor & lead.
+- 💻 I am an intern @ NASA JPL; research assistant @ Columbia University's ROAR Lab and @ NYU's Machines in Motion Lab; mechanic on QHSS Cardinals, FTC #19426; Science Olympiad build competitor & lead.
 
-- 🔬 My interests lie in mechanical engineering, robotics, biomechanics, and computational modeling.
+- 🔬 My interests lie in mechanical engineering, biomechanics, robotics, and computational modeling.
 
 - 📫 Feel free to reach out through email: wafisharif0@gmail.com / ws2759@nyu.edu / ws2828@columbia.edu or LinkedIn: https://www.linkedin.com/in/wafisharif.
 
