@@ -25,15 +25,15 @@
 
 I am a high school student from NYC.
 
-- ⚙️ I build projects ranging from robotics systems and engineering tools to interactive physics simulations.
+- I build projects ranging from robotics systems and engineering tools to interactive physics simulations.
 
-- ♟️ My hobbies include poker, chess, flying drones, CAD modeling, and tinkering with hardware.
+- My hobbies include poker, chess, flying drones, CAD modeling, and tinkering with hardware.
 
-- 💻 I am an intern @ NASA JPL; research assistant @ Columbia University's ROAR Lab and @ NYU's Machines in Motion Lab; mechanic on QHSS Cardinals, FTC #19426; Science Olympiad build competitor & lead.
+- I am an intern @ NASA JPL; research assistant @ Columbia University's ROAR Lab and @ NYU's Machines in Motion Lab; mechanic on QHSS Cardinals, FTC #19426; Science Olympiad build competitor & lead.
 
-- 🔬 My interests lie in mechanical engineering, biomechanics, robotics, and computational modeling.
+- My interests lie in mechanical engineering, biomechanics, robotics, and computational modeling.
 
-- 📫 Feel free to reach out through email: wafisharif0@gmail.com / ws2759@nyu.edu / ws2828@columbia.edu or LinkedIn: https://www.linkedin.com/in/wafisharif.
+- Feel free to reach out through email: wafisharif0@gmail.com / ws2759@nyu.edu / ws2828@columbia.edu or LinkedIn: https://www.linkedin.com/in/wafisharif.
 
 ---
 
@@ -41,39 +41,39 @@ I am a high school student from NYC.
 
 ### Physics Simulators
 
-- ⚡ [Electrostatics Playground](https://wafisharif.github.io/electrostatics-playground/)  
+- [Electrostatics Playground](https://wafisharif.github.io/electrostatics-playground/)  
   Interactive electric charge simulator with Coulomb forces, field visualization, adjustable constants, friction, and particle tools.
 
-- 🧱 [Momentum and Collision Simulator](https://wafisharif.github.io/momentum-and-collision-simulator/)  
+- [Momentum and Collision Simulator](https://wafisharif.github.io/momentum-and-collision-simulator/)  
   A 1D collision simulator showing momentum, kinetic energy, elastic collision behavior, and mass/velocity effects.
 
-- 🪢 [Atwood Machine Simulator](https://wafisharif.github.io/atwood-machine-simulator/)  
+- [Atwood Machine Simulator](https://wafisharif.github.io/atwood-machine-simulator/)  
   Interactive Atwood machine model with adjustable masses, acceleration, tension, velocity, and displacement.
 
-- 🌊 [Simple Harmonic Motion Simulator](https://wafisharif.github.io/simple-harmonic-motion-simulator/)  
+- [Simple Harmonic Motion Simulator](https://wafisharif.github.io/simple-harmonic-motion-simulator/)  
   Spring-mass simulation with position, velocity, acceleration, energy, and adjustable physical parameters.
 
-- 📐 [Inclined Plane Simulator](https://wafisharif.github.io/inclined-plane-simulator/)  
+- [Inclined Plane Simulator](https://wafisharif.github.io/inclined-plane-simulator/)  
   Inclined plane model with mass, angle, friction, acceleration, force vectors, and real-time motion.
 
-- 🔄 [Circular Motion Simulator](https://wafisharif.github.io/circular-motion-simulator/)  
+- [Circular Motion Simulator](https://wafisharif.github.io/circular-motion-simulator/)  
   Circular motion visualization with angular velocity, vectors, acceleration, and real-unit measurements.
 
-- 🚀 [Projectile Motion Simulator](https://wafisharif.github.io/projectile-motion-simulator/)  
+- [Projectile Motion Simulator](https://wafisharif.github.io/projectile-motion-simulator/)  
   Projectile motion simulator with launch angle, velocity, trajectory, vectors, and final motion statistics.
 
 ---
 
 <!-- ### Robotics Tools
 
-- 🧭 [Cardinals Autonomous Path Planner](https://github.com/wafisharif/Cardinals-Autonomous-Path-Planner)  
+- [Cardinals Autonomous Path Planner](https://github.com/wafisharif/Cardinals-Autonomous-Path-Planner)  
   An FTC autonomous path planning tool built to help calculate, compare, and organize robot movement paths for autonomous routines.
 
 ---
 -->
 ### Portfolio
 
-- 🌐 [Personal Portfolio Website](https://wafisharif.github.io/portfolio/)  
+- [Personal Portfolio Website](https://wafisharif.github.io/portfolio/)  
   My main portfolio site delving deeper into my research, robotics, projects, simulators, and other technical work.
 
 ---
