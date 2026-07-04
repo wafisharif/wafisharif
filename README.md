@@ -90,5 +90,3 @@ I am a high school student from NYC.
   <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" />
   <img src="https://img.shields.io/badge/FTC_Robotics-FF6F00?style=flat-square&logo=robotframework&logoColor=white" />
 </p>
-
----
