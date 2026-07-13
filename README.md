@@ -29,7 +29,7 @@ I am a high school student from NYC.
 
 - My hobbies include playing poker, playing chess, flying drones, CAD modeling, and tinkering with hardware.
 
-- I am an intern @ NASA JPL; research assistant @ Columbia University's ROAR Lab and @ NYU's Machines in Motion Lab; mechanic on QHSS Cardinals, FTC #19426; Science Olympiad build competitor & lead.
+- I am an intern @ NASA JPL; research assistant @ Columbia University's Delor Lab & ROAR Lab and @ NYU's Machines in Motion Lab; mechanic on QHSS Cardinals, FTC #19426; Science Olympiad build lead & competitor.
 
 - My interests lie in mechanical engineering, biomechanics, robotics, and computational modeling.
 
