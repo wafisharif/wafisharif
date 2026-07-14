@@ -73,7 +73,7 @@ I am a high school student from NYC.
 -->
 ### Portfolio
 
-- [Personal Portfolio Website](https://wafisharif.github.io/portfolio/)  
+- [Personal Portfolio Website] <!---(https://wafisharif.github.io/portfolio/) --> (currently under construction, please check back later)
   My main portfolio site delving deeper into my research, robotics, projects, simulators, and other technical work.
 
 ---
