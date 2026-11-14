@@ -74,7 +74,19 @@ I am a high school student from NYC.
 ### Portfolio
 
 - [Personal Portfolio Website] <!---(https://wafisharif.github.io/portfolio/) --> (currently under construction, please check back later)
-  My main portfolio site delving deeper into my research, robotics, projects, simulators, and other technical work.
+  My main portfolio site, which delves deeper into my technical work.
+
+---
+
+### Other Links
+
+- [SIT-FUSE]
+  https://software.nasa.gov/software/NPO-52538-1
+  https://nicks-personal-organization-2.gitbook.io/sit-fuse
+  https://doi.org/10.48550/arXiv.2610.24829
+
+- [Kinetra]
+  https://kinetraapp.com
 
 ---
 
