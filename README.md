@@ -29,7 +29,7 @@ I am a high school student from NYC.
 
 - My hobbies include playing poker, playing chess, flying drones, CAD modeling, and tinkering with hardware.
 
-- I am an intern @ NASA JPL; research assistant @ NYU's Machines in Motion Lab; captain of QHSS Star Strikers, FTC #19426; Science Olympiad build lead & competitor.
+- I am one of NASA JPL's SIT-FUSE developers; a research assistant @ NYU's Machines in Motion Lab; and the captain of QHSS Star Strikers, FTC team #19426.
 
 - My interests lie in engineering, biomechanics, robotics, and computational modeling.
 
@@ -64,13 +64,13 @@ I am a high school student from NYC.
 
 ---
 
-<!-- ### Robotics Tools
+### Robotics Tools
 
 - [Cardinals Autonomous Path Planner](https://github.com/wafisharif/Cardinals-Autonomous-Path-Planner)  
-  An FTC autonomous path planning tool built to help calculate, compare, and organize robot movement paths for autonomous routines.
+  A path planning tool built to help calculate, compare, and organize FTC robot movement paths for autonomous routines.
 
 ---
--->
+
 ### Portfolio
 
 - [Personal Portfolio Website] <!---(https://wafisharif.github.io/portfolio/) --> (currently under construction, please check back later)
