@@ -80,12 +80,12 @@ I am a high school student from NYC.
 
 ### Other Links
 
-- [SIT-FUSE]
-  https://software.nasa.gov/software/NPO-52538-1
-  https://nicks-personal-organization-2.gitbook.io/sit-fuse
-  https://doi.org/10.48550/arXiv.2610.24829
+- [SIT-FUSE]  
+  https://software.nasa.gov/software/NPO-52538-1  
+  https://nicks-personal-organization-2.gitbook.io/sit-fuse  
+  https://doi.org/10.48550/arXiv.2610.24829  
 
-- [Kinetra]
+- [Kinetra]  
   https://kinetraapp.com
 
 ---
